@@ -1,2 +1,12 @@
-
+td, th{
+	border : 2px solid black;
+	width : 19.4%;
+}
+th{
+	background-color : #c0504d  ;
+	color: white;
+}
+table{
+	border-collapse : collapse;
+}
 /* Your CSS Code here. */
